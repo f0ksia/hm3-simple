@@ -1,0 +1,49 @@
+body {
+  font-size: 18px;
+}
+
+h1 {
+  background-color: rgb(145, 42, 42);
+  text-align: center;
+  color: white;
+}
+
+.main_img {
+  width: 100%;
+}
+
+.italica {
+  font-style: italic;
+}
+
+.bold_text {
+  font-weight: 700;
+}
+
+.blue-bold_text {
+  color: blue;
+  font-weight: 700;
+}
+
+.blue_text {
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+ul img {
+  margin-right: 10px;
+  border: 4px dashed;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin-bottom: 20px;
+}
